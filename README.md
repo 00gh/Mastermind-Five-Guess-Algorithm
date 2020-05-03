@@ -1,5 +1,5 @@
 # Mastermind-Five-Guess-Algorithm
-Donal Knuth's five guess algorithm for solving the game Mastermind.
+Donald Knuth's five guess algorithm for solving the game Mastermind.
 
 In 1977, Donald Knuth demonstrated that the codebreaker can solve the pattern in five moves or fewer, using an algorithm that progressively reduced the number of possible patterns.
 
